@@ -57,9 +57,4 @@ A modern, responsive landing page and onboarding flow for SFBI - a Salesforce Bu
 
 - `/src/components`: React components including the multi-step onboarding flow
 - `/src/pages`: Next.js pages
-- `/public/images`: Static images including hero image and other assets
-
-## License
-
-MIT License - See [LICENSE](LICENSE) for more details. 
->>>>>>> 20cd20f (Initial commit: Add SFBI landing page and onboarding flow)
+- `/public/images`: Static images including hero image and other assets 
